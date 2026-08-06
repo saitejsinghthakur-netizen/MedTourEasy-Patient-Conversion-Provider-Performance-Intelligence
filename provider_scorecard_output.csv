@@ -1,0 +1,31 @@
+provider_id,provider_name,region,specialty_area,pricing_tier,total_inquiries,total_completed_treatments,treatment_completion_pct,quote_to_treatment_pct,sla_breach_pct,follow_up_completion_pct,avg_satisfaction_score,total_gross_margin_inr,provider_intelligence_score,provider_rank
+PVD-020,"MTE Partner Hospital 20","West Africa","Transplant Evaluation",Standard,55,29,52.73,93.55,1.82,42.37,4.2,5844019,54.43,1
+PVD-008,"MTE Partner Hospital 08","West Africa","Transplant Evaluation",Premium,55,28,50.91,103.70,3.64,43.40,4.19,6145666,54.01,2
+PVD-007,"MTE Partner Hospital 07","East Africa",Cardiology,Economy,50,26,52.00,104.00,8.00,41.67,3.9,5452853,52.08,3
+PVD-015,"MTE Partner Hospital 15","West Africa","Bariatric Surgery",Premium,56,26,46.43,118.18,5.36,43.78,3.82,5975718,51.69,4
+PVD-017,"MTE Partner Hospital 17","Southeast Asia","Transplant Evaluation",Premium,43,20,46.51,111.11,6.98,48.72,3.62,3703765,50.13,5
+PVD-011,"MTE Partner Hospital 11","East Africa",Orthopedics,Premium,49,23,46.94,115.00,12.24,41.26,3.66,3810030,48.08,6
+PVD-001,"MTE Partner Hospital 01","South Asia",Cardiology,Economy,55,26,47.27,108.33,16.36,38.84,3.52,5496283,48.01,7
+PVD-003,"MTE Partner Hospital 03","West Africa",Dental,Economy,59,26,44.07,104.00,10.17,35.97,3.22,4713255,46.96,8
+PVD-022,"MTE Partner Hospital 22","Southeast Asia","Transplant Evaluation",Economy,47,20,42.55,95.24,6.38,36.14,3.12,4154461,46.55,9
+PVD-021,"MTE Partner Hospital 21","West Africa","Bariatric Surgery",Economy,51,21,41.18,91.30,3.92,34.93,3.28,3695213,45.73,10
+PVD-024,"MTE Partner Hospital 24","East Africa",Fertility,Economy,52,19,36.54,70.37,5.77,40.95,2.95,3858085,45.42,11
+PVD-027,"MTE Partner Hospital 27","Southeast Asia",Oncology,Economy,53,21,39.62,95.45,9.43,33.17,3.03,4352788,44.63,12
+PVD-002,"MTE Partner Hospital 02","Middle East",Fertility,Economy,42,17,40.48,121.43,19.05,43.48,2.86,3782409,43.87,13
+PVD-026,"MTE Partner Hospital 26","Southeast Asia","Bariatric Surgery",Economy,46,18,39.13,128.57,15.22,43.27,2.97,3349753,43.75,14
+PVD-004,"MTE Partner Hospital 04","Southeast Asia",Orthopedics,Economy,66,24,36.36,88.89,19.70,44.57,2.73,4434928,43.58,15
+PVD-016,"MTE Partner Hospital 16","Middle East",Orthopedics,Premium,52,19,36.54,111.76,15.38,42.11,2.8,3852447,43.36,16
+PVD-009,"MTE Partner Hospital 09","East Africa",Fertility,Premium,56,22,39.29,104.76,28.57,37.73,3.09,4339829,41.55,17
+PVD-030,"MTE Partner Hospital 30","South Asia",Dental,Economy,50,18,36.00,138.46,12.00,36.13,2.7,3314451,41.48,18
+PVD-010,"MTE Partner Hospital 10","West Africa",Neurology,Premium,41,15,36.59,125.00,41.46,44.53,2.76,3638572,37.83,19
+PVD-019,"MTE Partner Hospital 19","East Africa","Transplant Evaluation",Economy,47,14,29.79,77.78,19.15,36.79,2.23,2382807,36.56,20
+PVD-012,"MTE Partner Hospital 12","Southeast Asia",Fertility,Economy,58,16,27.59,80.00,22.41,37.89,2.18,2964777,36.14,21
+PVD-018,"MTE Partner Hospital 18","South Asia",Cardiology,Standard,48,15,31.25,100.00,27.08,32.40,2.32,3234343,35.57,22
+PVD-014,"MTE Partner Hospital 14","Southeast Asia",Oncology,Premium,52,12,23.08,120.00,17.31,40.29,1.7,2346610,34.67,23
+PVD-025,"MTE Partner Hospital 25","West Africa",Orthopedics,Premium,52,12,23.08,75.00,21.15,39.32,1.71,2893200,34.32,24
+PVD-006,"MTE Partner Hospital 06","Southeast Asia",Oncology,Premium,44,12,27.27,80.00,29.55,35.05,2.05,2924643,33.71,25
+PVD-028,"MTE Partner Hospital 28","West Africa","Cosmetic Surgery",Premium,39,9,23.08,69.23,23.08,40.28,1.75,1802458,33.29,26
+PVD-005,"MTE Partner Hospital 05","East Africa",Orthopedics,Standard,48,13,27.08,76.47,31.25,34.45,1.93,2710051,32.71,27
+PVD-023,"MTE Partner Hospital 23","West Africa",Orthopedics,Standard,46,11,23.91,100.00,52.17,39.56,1.74,1637869,27.41,28
+PVD-013,"MTE Partner Hospital 13","East Africa",Fertility,Premium,50,12,24.00,80.00,60.00,39.81,1.69,2301864,26.15,29
+PVD-029,"MTE Partner Hospital 29","Southeast Asia",Cardiology,Standard,38,10,26.32,125.00,71.05,34.25,1.8,2401209,24.14,30
